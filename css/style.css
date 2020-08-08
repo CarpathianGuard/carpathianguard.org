@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  background-color: #fff;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+  box-shadow: inset 0 0 5rem rgba(0,0,0,.5);
+}
+
+/* https://usbrandcolors.com/facebook-colors/ */
+#facebook:hover {
+  fill: #4267B2;
+}
+
+/* https://usbrandcolors.com/messenger-colors/ */
+#messenger:hover {
+  fill: #006AFF;
+}
+
+/* https://usbrandcolors.com/twitter-colors/ */
+#twitter:hover {
+  fill: #1DA1F2;
+}
+
+/* https://usbrandcolors.com/instagram-colors/ */
+#instagram:hover {
+  fill: #833AB4;
+}
+
+/* https://brandpalettes.com/reddit-color-codes/ */
+#reddit:hover {
+  fill: #FF4500;
+}
+
+/* https://www.schemecolor.com/github-cat-icon-colors.php */
+#github:hover {
+  fill: #211F1F;
+}
+
+/* https://usbrandcolors.com/youtube-colors/ */
+#youtube:hover {
+  fill: #FF0000;
+}
